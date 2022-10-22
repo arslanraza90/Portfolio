@@ -35,5 +35,12 @@ As an iOS developer communicating with the business team and client, understandi
 
 <p align="center">
 <img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
 </p>
 
