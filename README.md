@@ -35,12 +35,12 @@ As an iOS developer communicating with the business team and client, understandi
 
 <p align="center">
 <img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image1.png" width=20% height=20%" width="150"
+<img src="Docs/image2.png" width=20% height=20%" width="150"
+<img src="Docs/image3.png" width=20% height=20%" width="150"
+<img src="Docs/image4.png" width=20% height=20%" width="150"
+<img src="Docs/image5.png" width=20% height=20%" width="150"
+<img src="Docs/image6.png" width=20% height=20%" width="150"
+<img src="Docs/image7.png" width=20% height=20%" width="150"
+<img src="Docs/image8.png" width=20% height=20%" width="150"
 </p>
 
