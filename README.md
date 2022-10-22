@@ -33,12 +33,8 @@ As an iOS developer communicating with the business team and client, understandi
 
 # [RevBits-ZTN – Zero trust network](https://apps.apple.com/pk/app/revbits-ztn/id1568695445)
 
-<img src="Docs/image1.png" width=20% height=20%" width="150"
-<img src="Docs/image2.png" width=20% height=20%" width="150"
-<img src="Docs/image3.png" width=20% height=20%" width="150"
-<img src="Docs/image4.png" width=20% height=20%" width="150"
-<img src="Docs/image5.png" width=20% height=20%" width="150"
-<img src="Docs/image6.png" width=20% height=20%" width="150"
-<img src="Docs/image7.png" width=20% height=20%" width="150"
-<img src="Docs/image8.png" width=20% height=20%" width="150"
+
+<p align="center">
+<img src="Docs/image21.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Docs/image8.png" width="150" title="iPad version">
+</p>
 
