@@ -34,6 +34,6 @@ As an iOS developer communicating with the business team and client, understandi
 # [RevBits-ZTN – Zero trust network](https://apps.apple.com/pk/app/revbits-ztn/id1568695445)
 
 <p align="center">
-<img src="Docs/1-Features.png" width=85% height=85%" width="150"
+<img src="Docs/image1.png" width=20% height=20%" width="150"
 </p>
 
