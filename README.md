@@ -1,5 +1,5 @@
 # Portfolio
-Overall 3 years of experience in Mobile App Development using Swift and SwiftUI. Currently working with InvoZone (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVC, MVVM with reactive (Rx) and Combine framework. Sound experience in implementing SOLID principles. Delivers many applications to clients successfully also published on App-store.
+Overall 4 years of experience in Mobile App Development using Swift and SwiftUI. Currently working with InvoZone (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVC, MVVM with reactive (Rx) and Combine framework. Sound experience in implementing SOLID principles. Delivers many applications to clients successfully also published on App-store.
 
 # [RevBits-ZTN – Zero trust network](https://apps.apple.com/pk/app/revbits-ztn/id1568695445)
 
@@ -37,3 +37,26 @@ As an iOS developer communicating with the business team and client, understandi
 <p align="center">
 <img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image8.png" width="150" title="iPad version">
 </p>
+
+# [RevBits-CIP – Cyber Intelligence Platform](https://apps.apple.com/us/app/revbits-cip/id1580081596?platform=iphone)
+
+
+All the security modules are integrated onto a single Cyber Intelligence Platform, to facillitate information sharing between modules, improve detection capabilities and reduce response times. This is accomplished by using standardized logging techniques in each of our security modules.
+The dashboard contanct the different graphs that displays the stats comes from differents modules of RevBits products. User can also apply differents filters on these graphs to display old data.
+On Profile screen user information diplayed, user can also able to check how many sessions are currently made from his account.
+Notification screen displays the notification comes from different platform of RevBits based on different types.
+Application also supports dark and light mode.
+
+## In the App we covered the following authentications ##
+* Face-ID/Touch-ID (Show anyone of them according to device capabilities) OTP
+* SMS
+* Yubikey
+* NFC U2F
+
+# [RevBits-CIP – Cyber Intelligence Platform](https://apps.apple.com/us/app/revbits-cip/id1580081596?platform=iphone)
+
+<p align="center">
+<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image16.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image12.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image10.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image11.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image15.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image14.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image13.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image18.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image17.png" width="150" title="iPad version">
+</p>
+
+
