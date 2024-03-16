@@ -82,4 +82,20 @@ GigiMot is a service base application that provided gym services and online sess
 <img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image19.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image20.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image21.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image22.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image23.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image24.png" width="150" title="iPad version">
 </p>
 
+# [Quickxi Food](https://apps.apple.com/sn/app/quickxi-food/id1601690328)
+A food delivery app that allows users to browse and order food from local restaurants and eateries for delivery to their doorstep. These apps typically offer a wide range of cuisines and dishes, giving users access to a diverse selection of food options.
 
+### Technologies ###
+* Swift
+* Dark mode support
+* Push Notifications
+* Firebase Authentication 
+* MVVM
+* Google Map
+* Google Places Api
+
+# [Quickxi Food](https://apps.apple.com/sn/app/quickxi-food/id1601690328)
+
+<p align="center">
+<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image25.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image26.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image27.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image28.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image29.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image30.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image31.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image32.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image33.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image34.png" width="150" title="iPad version">
+</p>
