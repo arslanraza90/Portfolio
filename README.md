@@ -59,7 +59,7 @@ Application also supports dark and light mode.
 <img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image16.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image12.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image10.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image11.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image15.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image14.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image13.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image18.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image17.png" width="150" title="iPad version">
 </p>
 
-# [GigiMot]
+# GigiMot
 
 GigiMot is a service base application that provided gym services and online session class to customer. It consists of two separate app first one is for provider and second one is for customer. On customer side User have to register its self through application, and select the available slots for online class, User can receive a notification on his selected time from that user can join the online training class through zoom. Customers can pay online with apple pay or with their credit cards, Users can also chat with their coaches, on other side provider offers their services.
 
@@ -76,7 +76,7 @@ GigiMot is a service base application that provided gym services and online sess
 * RXSwift
 * MVVM
 
-# [GigiMot]
+# GigiMot
 
 <p align="center">
 <img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image19.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image20.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image21.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image22.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image23.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image24.png" width="150" title="iPad version">
