@@ -99,3 +99,62 @@ A food delivery app that allows users to browse and order food from local restau
 <p align="center">
 <img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image25.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image26.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image27.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image28.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image29.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image30.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image31.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image32.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image33.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/arslanraza90/Portfolio/blob/main/Docs/image34.png" width="150" title="iPad version">
 </p>
+
+# [8xBeto] 
+
+8xBeto is a real-time sports application built for iOS using SwiftUI, offering live scores, match updates, and detailed statistics for football and basketball. The app is designed to provide sports enthusiasts with an interactive and engaging experience, with features such as live match tracking, tips and predictions, voting, and referral rewards.
+
+* Live Match Updates: Real-time scores and results for football and basketball matches.
+
+* Tips & Predictions: Users can view expert tips, vote on match outcomes, and track correct/incorrect predictions.
+
+* Match Details & Stats: Interactive match pages with detailed team stats, player info, and dynamic graphs.
+
+* Referral System: Share the app with friends and earn rewards.
+
+* Personalized Profile: Users can manage their settings, language, theme, and account preferences.
+
+* Push Notifications: Get instant updates for favorite teams and matches.
+
+* Multilingual Support: English, Chinese, Portuguese, Thai, and Vietnamese localization for global users.
+
+* Deep Linking & Sharing: Easily share matches or app content via links, opening directly in-app.
+
+* Optimized Performance: Efficient preloading of media and asynchronous data fetching for smooth user experience.
+
+### Technical Highlights: ###
+
+* Developed with SwiftUI and Combine for reactive and declarative UI.
+
+* Efficient state management using custom observable objects.
+
+* Advanced deep linking to navigate directly to match details.
+
+* Dynamic handling of complex JSON data from APIs, including nested match predictions and statistics.
+
+* Animations & Interactive UI including countdown timers, pie charts, and scrollable cards.
+
+A fully functional iOS app delivering fast, real-time sports information with rich interactivity and a polished user interface, designed to engage sports fans worldwide.
+
+# [8xBeto] 
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image35.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image36.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image37.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image38.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image39.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image40.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image41.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image42.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image43.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image44.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image45.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image46.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image47.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image48.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image49.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image50.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image51.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/arslanraza90/foodball-basketball-sports/main/Docs/image52.png" width="150" title="dark mode">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
