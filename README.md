@@ -1,5 +1,5 @@
 # Portfolio
-Overall 5 years of experience in Mobile App Development using Swift and SwiftUI. Currently working with InvoZone (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVC, MVVM with reactive (Rx) and Combine framework. Sound experience in implementing SOLID principles. Delivers many applications to clients successfully also published on App-store.
+Overall 6 years of experience in Mobile App Development using Swift and SwiftUI. Currently working with hera sawda technologies co (Dubai) as Software Engineer (iOS). Deep knowledge of MVC, MVVM with reactive (Rx) and Combine framework. Sound experience in implementing SOLID principles. Delivers many applications to clients successfully also published on App-store.
 
 # [RevBits-ZTN – Zero trust network](https://apps.apple.com/pk/app/revbits-ztn/id1568695445)
 
